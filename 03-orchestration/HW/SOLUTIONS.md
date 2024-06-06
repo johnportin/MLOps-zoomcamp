@@ -12,3 +12,10 @@
 - 55 lines
 
 ## 3: Creating a pipeline
+- 3,403,766
+
+## 4: Data Preparation
+- 3,316,216
+
+## 5: Train a model
+- intercept: 24.77
